@@ -1,7 +1,7 @@
 # Aplikasi Bank Sampah
 Sistem informasi bank sampah berbasis web ini memiliki tampilan yang sederhana dan fitur yang menarik.
 
-To access admin page, add url /admin. Example http://localhost/banksampah/page/login.php
+To access admin page, add url /admin. Example http://localhost/bank-sampah-eco-rise/page/login.php
 
 ## Tampilan Aplikasi
 ![ss](asset/ss1.png)
